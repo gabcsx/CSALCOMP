@@ -9,22 +9,18 @@
 ### Schedule: [TUE 03:00 PM - 05:00 PM 517 MB - FRI 03:00 PM - 05:00 PM 517 MB](https://www.youtube.com/watch?v=bFr6it_iYdU)
 ### Professor: [Mr. Mico C. Magtira](https://www.youtube.com/watch?v=_kUFws-dHEI)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=HNefNLOHVYk)
-### Prerequisite: [None](https://github.com/flexycode/CTINFMGL)
+### Prerequisite: [CCD1STR1, CCDATRCL](https://github.com/flexycode/CCDATRCL)
 
 <!-- Genshin Impact -->
 <div align="center">
-<img src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif?cid=ecf05e47s58r7w8mev9d2vugcw28eadlktivra6h0amea6z2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
-<img src="https://media.giphy.com/media/uFygSquQkzbJTn3eQe/giphy.gif?cid=ecf05e47lpnwmxubw6vck95ymg1j0anne5ofqr69t8v43vcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-<img src="https://media.giphy.com/media/Yg0eXe6DhK8pVlUtVJ/giphy.gif?cid=ecf05e47lpnwmxubw6vck95ymg1j0anne5ofqr69t8v43vcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY5dGRwaXdwa2tuempnNDRjMWI5ZXlwZDd5c3Z6MGttbTNmYWh3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif" width="300">
 </div>
 
 
 
 ## 🧠 Overview
 
-```
-Coming Soon
-```
+In the realm of computer science, algorithms are the backbone of problem-solving. They provide step-by-step instructions for performing tasks efficiently and effectively. However, not all algorithms are created equal; their performance can vary significantly based on their design and the complexity of the problems they address. This repository delves into various algorithmic strategies, complexity classes, and the theoretical underpinnings that define the limits of computation.
 
 
 ## 📋 Table of Contents
@@ -41,23 +37,19 @@ Coming Soon
 
 ## 🛸 Introduction
 
-```
-Coming Soon
-```
+The introduction to CSALCOMP will cover the foundational concepts of algorithms, including their design, analysis, and the importance of computational complexity. We will discuss various types of algorithms, their classifications, and how they impact the efficiency of software applications.
+
 
 ## 👷 Usage
 
-```
-Coming Soon
-```
+This repository will provide practical examples and coding exercises to help you apply the concepts learned in class. You will find implementations of key algorithms in multiple programming languages, along with explanations of their complexities.
 
 
 ## 🚀 Key Features
 
-```
-Coming Soon
-```
-
+- Comprehensive coverage of algorithmic techniques and complexity analysis.
+- Real-world applications and coding examples.
+- Resources for further learning and exploration in algorithms and complexity.
 
 ## 📈 [Lesson](#lesson)  
 
@@ -121,18 +113,30 @@ coming soon...
 ```
 
 # 🏆 Contributing
-```
-coming soon...
-```
+
+### Contributing     
+If you would like to contribute to the Flight Booking App, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+### 🧠 Submitting Changes
+
+🧠 Contributions are welcome! If you have ideas for improvements or want to add more exercises, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request. 💕💕💕💕
+
+<!-- Contributors down below, kindly paste your github URL thanks and also you can revise your suited job title position -->
 
 # 🔑 License
-```
-coming soon...
-```
+ 
+This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CSALCOMP/blob/main/LICENSE) 
 
-<!-- 
-This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCDATRCL/blob/main/LICENSE) 
--->
 
 ## National University of Manila License   
 
@@ -157,13 +161,17 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 ### ✨ Professor
 
-```
-Coming Soon
-```
+Mr. Mico Magtira is a dedicated and results-driven professional with a wealth of expertise in computer science, data science, business intelligence, and machine learning. As a Data Scientist and Machine Learning Engineer, he has demonstrated an unwavering commitment to tackling challenging opportunities and driving impactful projects. His work with leading researchers and developers on initiatives such as Public Health Awareness for national deployment showcases his ability to apply complex concepts to real-world problems.
+
+Mico holds a Bachelor's degree in Computer Science from National University (PH), where he graduated with the distinction of Magna Cum Laude. He is currently pursuing a Master of Science in Computer Science at the Technological Institute of the Philippines, focusing on deep learning, computer vision, and other advanced skills.
+
+In addition to his academic achievements, Mico is a Certified Public Data Analyst, further solidifying his expertise in the field. His passion for teaching and mentoring students at the National University’s College of Computing and Information Technology (CCIT) is truly commendable. His dedication to fostering a supportive and engaging learning environment inspires students to excel and pursue their own paths in technology.
+
+We are grateful for his guidance and support in our journey through the complexities of algorithms and computational theory.
 
 <!-- Genshin Impact -->
 <div align="center">
-<img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif?cid=ecf05e476fpqi63k6pmpvgbhklal1pw4ewurwhz1gezg1ag0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/8EuHGVGzqJLRmoB48R/giphy.gif?cid=790b7611wyqum8dh5p3fnvjsavsk7ka8t3diha694g81knod&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 </div>
 
 # 📫 Changelogs
