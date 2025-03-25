@@ -186,9 +186,10 @@ We are grateful for his guidance and support in our journey through the complexi
 ### Fixed 
 - ✨ Fix changelogs
 
-## [11.0.1] - 2024-11-30   
+## [11.0.1] - 2025-03-25   
 ### Added  
-- ✨ Coming Soon
+- ✨ Update 
+- ✨ Update tables for course outline
 
 
 🧊 CSALCOMP  
