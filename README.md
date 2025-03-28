@@ -131,6 +131,18 @@ If you would like to contribute to the Flight Booking App, please follow these s
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request. 💕💕💕💕
 
+### 👋 Contributors
+### Special thanks to all my groupmates: 
+ * ####  😎 [Jay Arre Talosig](https://github.com/flexycode) - Machine Learning Engineer | Blockchain Developer | Bioinformatics Scientist
+ * ####  🎲 [Brian De Vera](https://github.com/scarfer14) - Network Security Engineer | Cyber Security Engineer | Robotics Engineer | Whitehat     
+ * ####  🧭 [Custer Valencerina](https://github.com/Cegeurun) - Machine Learning Engineer | Full Stack Engineer | Front-End Developer
+ * ####  💥 [Myckle Vince Natividad](https://github.com/Kyelkyel) - Cybersecurity Forensic Engineer | Cloud Security Architect | Cyber Defense Forensic Analyst | Cybersecurity Scrum Master
+ * ####  🎲 [Angelo Castillo](https://github.com/gabcsx) - Network Security Engineer | Machine Learning Engineer | Security Forensic Analyst
+ * ####  ✨ [Erica Galindo](https://www.youtube.com/) - Machine Learning Engineer | Software Engineer
+ * ####  🦾 [Yonan Pineda](https://www.youtube.com/) - Software Engineer | Forensic Engineer
+ * ####  🚀 [Genesis Navarro](https://www.youtube.com/)- Software Engineer | Forensic Engineer
+ * ####  💎 [Gelli Medina](https://www.youtube.com/) - Software Engineer | Forensic Engineer
+
 <!-- Contributors down below, kindly paste your github URL thanks and also you can revise your suited job title position -->
 
 # 🔑 License
