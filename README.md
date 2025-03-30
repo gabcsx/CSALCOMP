@@ -203,6 +203,10 @@ We are grateful for his guidance and support in our journey through the complexi
 - ✨ Update 
 - ✨ Update tables for course outline
 
+## [11.0.1] - 2025-03-30   
+### Added  
+- ✨ Add Coding Activity 1
+
 
 🧊 CSALCOMP  
 ```
