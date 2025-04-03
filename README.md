@@ -207,6 +207,15 @@ We are grateful for his guidance and support in our journey through the complexi
 ### Added  
 - ✨ Add Coding Activity 1
 
+## [11.0.1] - 2025-04-04   
+### Added  
+- ✨ Add Coding Activity 1
+
+### Fixed
+- 🧭 Custer Valencerina debug the previous code 
+- 🎲 Angelo Castillo added a pull-request for input validation and exception handling for user input  and Enforce constraint (1 ≤ a ≤ k) and add try-catch for input validation
+- ✨ Fix changelogs
+
 
 🧊 CSALCOMP  
 ```
