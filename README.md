@@ -11,17 +11,14 @@
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=HNefNLOHVYk)
 ### Prerequisite: [CCD1STR1, CCDATRCL](https://github.com/flexycode/CCDATRCL)
 
-<!-- Genshin Impact -->
+<!-- Genshin Impact 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY5dGRwaXdwa2tuempnNDRjMWI5ZXlwZDd5c3Z6MGttbTNmYWh3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif" width="300">
-</div>
-
-
+</div> -->
 
 ## 🧠 Overview
 
 In the realm of computer science, algorithms are the backbone of problem-solving. They provide step-by-step instructions for performing tasks efficiently and effectively. However, not all algorithms are created equal; their performance can vary significantly based on their design and the complexity of the problems they address. This repository delves into various algorithmic strategies, complexity classes, and the theoretical underpinnings that define the limits of computation.
-
 
 ## 📋 Table of Contents
 
@@ -213,7 +210,8 @@ We are grateful for his guidance and support in our journey through the complexi
 
 ### Fixed
 - 🧭 Custer Valencerina debug the previous code 
-- 🎲 Angelo Castillo added a pull-request for input validation and exception handling for user input  and Enforce constraint (1 ≤ a ≤ k) and add try-catch for input validation
+- 🎲 Angelo Castillo added a pull-request for input validation and exception handling for user input
+and Enforce constraint (1 ≤ a ≤ k) and add try-catch for input validation
 - ✨ Fix changelogs
 
 
