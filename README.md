@@ -214,6 +214,10 @@ We are grateful for his guidance and support in our journey through the complexi
 and Enforce constraint (1 ≤ a ≤ k) and add try-catch for input validation
 - ✨ Fix changelogs
 
+### Revision
+- Removed all error message outputs
+- Uses simple return statements to exit on any validation failure
+- Catches exceptions silently without printing messages
 
 🧊 CSALCOMP  
 ```
