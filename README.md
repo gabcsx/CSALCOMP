@@ -219,6 +219,10 @@ and Enforce constraint (1 ≤ a ≤ k) and add try-catch for input validation
 - Uses simple return statements to exit on any validation failure
 - Catches exceptions silently without printing messages
 
+## [11.0.1] - 2025-04-29   
+### Activity  
+- ✨ Brainstorming Final Project for CSALCOMP RRL
+
 🧊 CSALCOMP  
 ```
 
